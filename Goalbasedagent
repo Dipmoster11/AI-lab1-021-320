@@ -1,0 +1,21 @@
+# Goal-Based Vacuum Cleaner Agent 
+
+This is a simple Python simulation of a **Goal-Based Agent** that moves in a grid environment and cleans all dirty cells.
+
+The agent:
+- Finds the nearest dirty cell (goal)
+- Moves step-by-step to reach it
+- Cleans the cell
+- Repeats until the grid is clean
+
+The simulation shows the agent’s movement and cleaning in a graphical window using **Tkinter**.
+
+---
+
+## How to Run 
+
+1. Make sure Python 3 is installed.
+2. Save the script as `goal_based_agent.py`.
+3. Run the file:
+   ```bash
+   python goal_based_agent.py
