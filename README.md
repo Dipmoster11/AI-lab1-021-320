@@ -21,6 +21,8 @@ Behavior: Acts based only on the current percept (dirty or clean).
 Logic: If current cell is dirty → clean it; else → move to the next cell.
 Limitation: No memory or future planning.
 
+
+
 Output:
 ![Screenshot 2025-06-15 214258](https://github.com/user-attachments/assets/e5cffb46-19b5-4d5b-84d7-a1df3100a31e)
 
