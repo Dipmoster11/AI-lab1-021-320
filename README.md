@@ -1,4 +1,4 @@
-README: AI Vacuum Cleaner Agents
+AI Vacuum Cleaner Agents
 
 Project Overview
 This project simulates three types of Artificial Intelligence agents that perform cleaning tasks in a 2D grid environment:
